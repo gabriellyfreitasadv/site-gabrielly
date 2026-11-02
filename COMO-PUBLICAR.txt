@@ -1,0 +1,10 @@
+COMO PUBLICAR NO RAILWAY
+
+1. Crie um repositório no GitHub e envie estes arquivos (index.html, server.js, package.json e a pasta assets).
+2. No Railway: New Project > Deploy from GitHub repo > escolha o repositório.
+3. O Railway detecta o Node sozinho e roda "npm start". Não precisa configurar nada.
+4. Em Settings > Networking, clique em "Generate Domain" para ganhar o link público.
+5. Cole esse link na bio do Instagram.
+
+Para trocar o número do WhatsApp: no index.html, procure PHONE = "5515997939625".
+Para trocar a foto: substitua assets/gabrielly.webp (fundo transparente).
